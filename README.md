@@ -35,17 +35,17 @@ IDE Recommended: STS / Eclipse
 
 
 BookStoreManagement/ <br>
-│── src/ <br> main/java/com/example/bookstore
-│   ├── controller/      # Controllers (Home, Book, Auth)
-│   ├── entity/          # JPA Entities
-│   ├── repository/      # Repositories
-│   ├── service/         # Business Logic
-│   └── security/        # Security Config
-│
-│── src/main/resources/
-│   ├── static/          # CSS, JS, Images
-│   ├── templates/       # Thymeleaf Templates (home.html, login.html, etc.)
-│   └── application.properties
-│
-│── pom.xml              # Maven dependencies
-│── README.md            # Project Documentation
+│── src/main/java/com/example/bookstore <br>
+│   ├── controller/      # Controllers (Home, Book, Auth) <br>
+│   ├── entity/          # JPA Entities <br>
+│   ├── repository/      # Repositories <br>
+│   ├── service/         # Business Logic <br>
+│   └── security/        # Security Config <br>
+│ <br>
+│── src/main/resources/ <br>
+│   ├── static/          # CSS, JS, Images <br>
+│   ├── templates/       # Thymeleaf Templates (home.html, login.html, etc.) <br>
+│   └── application.properties <br>
+│ <br>
+│── pom.xml              # Maven dependencies <br>
+│── README.md            # Project Documentation <br>
