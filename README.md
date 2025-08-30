@@ -35,7 +35,7 @@ IDE Recommended: STS / Eclipse
 
 
 BookStoreManagement/ <br>
-│── src/main/java/com/example/bookstore
+│── src/ <br> main/java/com/example/bookstore
 │   ├── controller/      # Controllers (Home, Book, Auth)
 │   ├── entity/          # JPA Entities
 │   ├── repository/      # Repositories
